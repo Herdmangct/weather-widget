@@ -6,7 +6,7 @@ const Divider = () => {
 
 const styles = {
   divider: {
-    width: "2px",
+    width: "3px",
     borderLeft: "1px solid ",
     borderLeftColor: "#c9c9c9",
     margin: "30px",
