@@ -10,7 +10,7 @@ const styles = {
     borderLeft: "1px solid ",
     borderLeftColor: "#c9c9c9",
     margin: "30px",
-    marginTop: "40px",
+    marginTop: "45px",
     marginBottom: "40px",
     boxShadow: "0 0 1px 0 white inset, 0 0 1px 0 white"
   }
